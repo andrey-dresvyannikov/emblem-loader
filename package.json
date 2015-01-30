@@ -1,12 +1,16 @@
 {
   "name": "emblem-loader",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Emblem loader for Webpack",
   "git repository": "https://github.com/yoshdog/emblem-loader",
   "main": "index.js",
   "dependencies": {
     "emblem": "~0.3.9",
     "handlebars": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshdog/emblem-loader.git"
   },
   "keywords": [
     "em",
