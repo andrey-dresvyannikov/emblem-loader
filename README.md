@@ -1,6 +1,6 @@
 ## Emblem loader for webpack
 
-Emblem (Emblem Templates) loader for [webpack](http://webpack.github.io/). Uses emblem's compile function to handlebars.js.
+[Emblem](http://emblemjs.com/) (Emblem Templates) loader for [webpack](http://webpack.github.io/). Uses emblem's compile function to handlebars.js.
 
 ## Installation
 
