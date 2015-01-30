@@ -1,0 +1,1 @@
+## Emblem loader for webpack
