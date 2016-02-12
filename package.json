@@ -5,7 +5,7 @@
   "git repository": "https://github.com/yoshdog/emblem-loader",
   "main": "index.js",
   "dependencies": {
-    "emblem": "~0.3.9",
+    "emblem": ">=0.5.0",
     "handlebars": "^2.0.0"
   },
   "repository": {
