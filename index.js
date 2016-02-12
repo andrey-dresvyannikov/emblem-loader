@@ -1,9 +1,6 @@
-var Emblem = require('emblem');
-var Handlebars = require('handlebars');
+var emblem = require('emblem')['default'];
 
 module.exports = function(source) {
   if (this.cacheable) this.cacheable();
-  var compiled = null;
-  compiled = Emblem.compile(Handlebars, source);
-  return 'module.exports =' + compiled;
+  return emblem.compile(source);
 }
